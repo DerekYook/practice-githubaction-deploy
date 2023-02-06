@@ -16,8 +16,8 @@ on:
 permissions:
   contents: read
 
-  env:
-    S3_BUKET_NAME : be-73-derekyook
+env:
+  S3_BUKET_NAME : be-73-derekyook
 
 jobs:
   build:
